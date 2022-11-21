@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: yanputhesis-sample.aux
+The style file: nputhesis.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: reference.bib
+You've used 7 entries,
+            5256 wiz_defined-function locations,
+            1062 strings with 8713 characters,
+and the built_in function-call counts, 46524 in all, are:
+= -- 1056
+> -- 5205
+< -- 6570
++ -- 1889
+- -- 377
+* -- 314
+:= -- 6592
+add.period$ -- 23
+call.type$ -- 7
+change.case$ -- 13
+chr.to.int$ -- 1630
+cite$ -- 7
+duplicate$ -- 171
+empty$ -- 531
+format.name$ -- 177
+if$ -- 12053
+int.to.chr$ -- 1
+int.to.str$ -- 8
+missing$ -- 0
+newline$ -- 51
+num.names$ -- 21
+pop$ -- 2340
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 4778
+stack$ -- 0
+substring$ -- 2229
+swap$ -- 7
+text.length$ -- 141
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 69
+warning$ -- 0
+while$ -- 150
+width$ -- 0
+write$ -- 106
